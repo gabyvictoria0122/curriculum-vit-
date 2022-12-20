@@ -12,11 +12,11 @@ DESENVOLVEDORA FULL STACK
 
 ## Experiências
     
-#### Buser tech 
+### **[Buser Tech](https://blog.buser.com.br/novidades/buser-lanca-programa-capacitacao-profissionais-tecnologia/)**
 
 *Abril/2022 - Present*
 
-Programa com o objetivo de acelerar o desenvolvimento na área de tecnologia.
+Programa com o objetivo de unir conhecimento teorico com prático para acelerar meu desenvolvimento na área de tecnologia.
 ## Educação
 
 - **Análise e Desenvolvimento de Sistemas**  
