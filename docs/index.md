@@ -4,7 +4,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Contatos
 
-[:fontawesome-solid-square-phone:]((13) 99146 - 6798)
+[:fontawesome-solid-square-phone:]()
+(13) 99146 - 6798
 [:material-email:](gabrielavictoria91@gmail.com)
 [:simple-github:](https://github.com/gabyvictoria0122)
 [:fontawesome-brands-linkedin:](www.linkedin.com/in/gabyvictoria0122)

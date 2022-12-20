@@ -1,6 +1,10 @@
-site_name: My Docs
+site_name: Gaby's CV
 theme:
   name: material
+  font:
+    text: mono
+  palette:
+    primary: deep purple
 
 markdown_extensions:
   - attr_list
