@@ -1,19 +1,15 @@
 # Gabriela Victoria da Cruz Nascimento
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+DESENVOLVEDORA FULL STACK
 
 ## Contatos
 
 [:fontawesome-solid-square-phone:]()
-(13) 99146 - 6798
-[:material-email:](gabrielavictoria91@gmail.com)
-[:simple-github:](https://github.com/gabyvictoria0122)
-[:fontawesome-brands-linkedin:](www.linkedin.com/in/gabyvictoria0122)
+- (13) 99146 - 6798  
+[:material-email:](gabrielavictoria91@gmail.com) - gabrielavictoria91@gmail.com  
+[:simple-github:](https://github.com/gabyvictoria0122) - https://github.com/gabyvictoria0122  
+[:fontawesome-brands-linkedin:](www.linkedin.com/in/gabyvictoria0122) - www.linkedin.com/in/gabyvictoria0122  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
 ## Education
 
