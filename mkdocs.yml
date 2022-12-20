@@ -6,7 +6,7 @@ theme:
   palette:
     - scheme: default
       primary: deep purple
-      accent: deep purple
+      accent: black
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -24,3 +24,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/gabyvictoria0122/curriculum-vitae
+    - icon: fontawesome/brands/linkedin 
+      link: www.linkedin.com/in/gabyvictoria0122

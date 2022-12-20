@@ -14,15 +14,15 @@ DESENVOLVEDORA FULL STACK
     
 ### **[Buser Tech](https://blog.buser.com.br/novidades/buser-lanca-programa-capacitacao-profissionais-tecnologia/)**
 
-*Abril/2022 - Present*
+``` Abril/2022 - Presente ```
 
-Programa com o objetivo de unir conhecimento teorico com prático para acelerar meu desenvolvimento na área de tecnologia.
+Programa de estágio com o objetivo de unir conhecimento teorico com prático para acelerar meu desenvolvimento na área de tecnologia.
 ## Educação
 
 - **Análise e Desenvolvimento de Sistemas**  
 Centro Universitário União das Américas Descomplica  
-2022-2024  
+```2022-Julho/2025```  
 
 - **Ensino médio integrado ao técnico em Administração**  
 Etec de Praia Grande  
-2019-2021
+```2019-2021```
